@@ -1,7 +1,7 @@
 
-### Group5-algorithmStudy
+### [Chapter 2] 프로그래밍 기초(Week 2)
 
-# [Chapter 2] 프로그래밍 기초(Week 2)
+# Group5-algorithmStudy
 
 
 ## Authors
